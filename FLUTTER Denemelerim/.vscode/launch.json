@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dart_variables",
+            "cwd": "dart_variables",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dart_variables (profile mode)",
+            "cwd": "dart_variables",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dart_variables (release mode)",
+            "cwd": "dart_variables",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_condition_blocks",
+            "cwd": "flutter_condition_blocks",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_condition_blocks (profile mode)",
+            "cwd": "flutter_condition_blocks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_condition_blocks (release mode)",
+            "cwd": "flutter_condition_blocks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_condition_blocks2",
+            "cwd": "flutter_condition_blocks2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_condition_blocks2 (profile mode)",
+            "cwd": "flutter_condition_blocks2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_condition_blocks2 (release mode)",
+            "cwd": "flutter_condition_blocks2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_custom_scroll_view",
+            "cwd": "flutter_custom_scroll_view",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_custom_scroll_view (profile mode)",
+            "cwd": "flutter_custom_scroll_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_custom_scroll_view (release mode)",
+            "cwd": "flutter_custom_scroll_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_gridview",
+            "cwd": "flutter_gridview",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_gridview (profile mode)",
+            "cwd": "flutter_gridview",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_gridview (release mode)",
+            "cwd": "flutter_gridview",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_listview",
+            "cwd": "flutter_listview",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_listview (profile mode)",
+            "cwd": "flutter_listview",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_listview (release mode)",
+            "cwd": "flutter_listview",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_my_project",
+            "cwd": "flutter_my_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_my_project (profile mode)",
+            "cwd": "flutter_my_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_my_project (release mode)",
+            "cwd": "flutter_my_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_special_widget",
+            "cwd": "flutter_special_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_special_widget (profile mode)",
+            "cwd": "flutter_special_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_special_widget (release mode)",
+            "cwd": "flutter_special_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
